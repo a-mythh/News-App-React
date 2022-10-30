@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The People - News Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using React class based components. It is pretty awesome.
 
 ## Available Scripts
 
